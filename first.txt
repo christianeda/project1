@@ -2,10 +2,7 @@ Great video! Thought I should point out there's a small error in the transcript.
  Antworten  · 
 	
  
-McGavel1 vor 3 Tagen
- Cool, thanks. I'm excited to learn about these tools!
- Antworten  · 
-	
+meine zweite änderung
  
 David Ochser vor 1 Monat
  Excellent overview.  Well presented even a non-programmed like me got excited watching the tutorial.
@@ -16,8 +13,13 @@ aru dureha vor 1 Monat
  Excellent tutorial! Just one suggestion - you should really use camelCasing :)
  Antworten  · 
 	
- 
-s.brahma Reddy vor 1 Monat
- after switching to the branch , mate command isn't working .
- Antworten  · 
+
+	
+meine erste änderung
+
+meine dritte änderung
+
+
+
+	
 		
