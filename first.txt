@@ -1,0 +1,23 @@
+Great video! Thought I should point out there's a small error in the transcript. (5:50And by that I mean it works extremely well with Highlight and C Networks) should be changed to (5:50 And by that I mean it works extremely well with high latency networks).
+ Antworten  · 
+	
+ 
+McGavel1 vor 3 Tagen
+ Cool, thanks. I'm excited to learn about these tools!
+ Antworten  · 
+	
+ 
+David Ochser vor 1 Monat
+ Excellent overview.  Well presented even a non-programmed like me got excited watching the tutorial.
+ Antworten  · 
+	
+ 
+aru dureha vor 1 Monat
+ Excellent tutorial! Just one suggestion - you should really use camelCasing :)
+ Antworten  · 
+	
+ 
+s.brahma Reddy vor 1 Monat
+ after switching to the branch , mate command isn't working .
+ Antworten  · 
+		
